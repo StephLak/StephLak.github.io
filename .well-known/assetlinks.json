@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.rice_fortification",
+    "sha256_cert_fingerprints":
+    ["CA:84:4D:AD:96:02:3B:58:D2:1C:D2:EA:D9:9B:98:F5:AD:12:32:51:8F:34:47:A4:9B:F3:F3:0D:EE:42:5D:F4"]
+  }
+}]
